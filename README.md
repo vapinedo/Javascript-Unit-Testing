@@ -4,3 +4,4 @@
 2. Separate unit testing function to another file 
 3. Build ``expect`` API unit testing
 4. Build custom unit testing library from scratch
+5. Take to separate file testing and expect functions
